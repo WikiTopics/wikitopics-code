@@ -9,7 +9,7 @@ This contains all the code involved in downloading and processing the data from 
 - **Website ([wikitopics.github.io](https://wikitopics.github.io)):** A very simple quiz where users guess the most popular topics present within a particular time period. (Source code at [WikiTopics/wikitopics.github.io](https://github.com/WikiTopics/wikitopics.github.io))
 
 ## Group Credits:
-- **Om:** Data Extraction/Conversion (Notebooks 1-3)
-- **Nishanth:** Topic modeling work using BERTopic; conversion to JSON format used by the website (Notebook 4)
+- **Om:** Data Extraction/Conversion (Notebooks [1](https://github.com/WikiTopics/wikitopics-code/blob/main/1.%20Download%20%2B%20Extract%20Data%20Dump%20from%20WikiNews.ipynb), [2](https://github.com/WikiTopics/wikitopics-code/blob/main/2.%20Convert%20Data%20to%20Columnar%20Format.ipynb), [3](https://github.com/WikiTopics/wikitopics-code/blob/main/3.%20Extract%20Date%20and%20Plain%20Text%20of%20WikiNews%20articles.ipynb))
+- **Nishanth:** Topic modeling work using BERTopic; conversion to JSON format used by the website (Notebook [4](https://github.com/WikiTopics/wikitopics-code/blob/main/4.%20Topic%20Modeling%20using%20BERTopic.ipynb))
 - **Harshit:** Topic data analysis + insights _(misssing, will be added upon completion)_
 - **Kenny:** Website creation ([wikitopics.github.io](https://wikitopics.github.io))
