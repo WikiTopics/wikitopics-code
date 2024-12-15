@@ -10,6 +10,6 @@ This contains all the code involved in downloading and processing the data from 
 
 ## Group Credits:
 - **Om:** Data Extraction/Conversion (Notebooks 1-3)
-- **Nishanth:** BERTopic + all topic modeling work; conversion to JSON format used in website (Notebook 4)
+- **Nishanth:** Topic modeling work using BERTopic; conversion to JSON format used by the website (Notebook 4)
+- **Harshit:** Topic data analysis + insights _(misssing, will be added upon completion)_
 - **Kenny:** Website creation
-- **Harshit:** Topic data analysis + insights (misssing, will be added upon completion)
