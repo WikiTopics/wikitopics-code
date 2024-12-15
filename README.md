@@ -12,4 +12,4 @@ This contains all the code involved in downloading and processing the data from 
 - **Om:** Data Extraction/Conversion (Notebooks 1-3)
 - **Nishanth:** BERTopic + all topic modeling work; conversion to JSON format used in website (Notebook 4)
 - **Kenny:** Website creation
-- **Harshit:** Topic data analysis + insights (currently missing)
+- **Harshit:** Topic data analysis + insights
